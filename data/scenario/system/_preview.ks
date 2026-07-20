@@ -1,0 +1,7 @@
+[hidemenubutton] 
+[eval exp="f._system_preview_ks='scene1.ks'"] 
+[preload  storage="./data/bgimage/baise.png"  ]
+[preload  storage="./data/fgimage/default/1.jpg"  ]
+[preload  storage="./data/fgimage/default/B8A2FF21CFB7ED1D8073ED5EEAEE158E.png"  ]
+[preload  storage="./data/fgimage/default/0CB6DDACD27AD0403C6065B7F644406B.png"  ]
+[return] 
